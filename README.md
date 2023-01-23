@@ -1,6 +1,6 @@
 # Windows-Taskmgr.github.io
 
-### (If you are a foreigner, please go below for the English version of the description)
+### (If you are not a Chinese, please go below for the English version of the description)
 
 我的网站
 
